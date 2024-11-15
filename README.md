@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Sandeep Kumar, a Computer Science and Engineering Undergrad from IIT Dhanbad with a passion for competitive programming and deveops . Here, you'll find various projects that I've worked on.
+I'm Sandeep Kumar, a Computer Science and Engineering Undergrad from IIT Dhanbad with a passion for competitive programming and Dev . Here, you'll find various projects that I've worked on.
 
 ---
 
